@@ -45,3 +45,8 @@ Espero fortalecer mis conocimientos en protección y gestión de información, a
 **Correo:** lopezmanuelcecilia@gmail.com
 
 ---
+
+## Datos personales
+
+Usuario: lopezmanuelcecilia-bot  
+Color favorito: azul
